@@ -1,0 +1,27 @@
+
+
+.detail{
+    border:3px solid #382c2c;
+    width:580px;
+    height:200px;
+}
+.edit {
+    border: 1px solid aliceblue;
+    background-color: #109b3d;
+    text-decoration: none;
+    padding: 9px;
+    margin-left:20px;
+    margin-right:10px;
+    color: white;
+}
+.edit:hover {
+    color: black;
+}
+.row {
+    margin-left: 6px;
+}
+.col {
+    margin-left: 7px;
+}
+
+

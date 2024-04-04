@@ -1,0 +1,57 @@
+
+.button {
+    border: 2px solid #266771;
+    padding: 25px;
+    background-color: #25bdb8;
+    font-size: large;
+    color: aliceblue;
+    margin-top:35px;
+    margin-bottom:30px;
+}
+p {
+    margin-top: 45px;
+    margin-bottom: 40px;
+}
+.table{
+    border:2px solid #000000;
+    
+}
+.tab{
+    border:3px solid #000000;
+}
+td{
+    border-left:2px solid #000000;
+}
+th {
+    border-left: 3px solid #000000;
+}
+.edit {
+    border: 1px solid aliceblue;
+    background-color: #109b3d;
+    text-decoration: none;
+    padding: 9px;
+    color: white;
+}
+.details {
+    border: 1px solid aliceblue;
+    background-color: #162cc2;
+    text-decoration: none;
+    padding: 9px;
+    color: white;
+}
+.delete {
+    border: 1px solid aliceblue;
+    background-color: #ff0000;
+    text-decoration: none;
+    padding: 9px;
+    color:white;
+}
+.edit:hover{
+    color:black;
+}
+.details:hover {
+    color: black;
+}
+.delete:hover {
+    color: black;
+}
